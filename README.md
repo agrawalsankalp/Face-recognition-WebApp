@@ -2,7 +2,7 @@
 
 1. Clone this repo
 2. Prerequisitcs: 
-  2. Install PostgreSQL instead of MySQL.
-  2. Install NPM.
+  * Install PostgreSQL instead of MySQL.
+  * Install NPM.
  
 Run both the front end and back-end API for proper hosting.
